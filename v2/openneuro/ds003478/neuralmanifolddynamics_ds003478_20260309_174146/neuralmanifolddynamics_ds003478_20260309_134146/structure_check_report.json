@@ -1,0 +1,1468 @@
+{
+  "dataset": "ds003478",
+  "run_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146",
+  "created_at": "2026-03-10T10:08:45.527653Z",
+  "ok": true,
+  "n_recordings": 243,
+  "n_ok": 243,
+  "recordings": [
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-001_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-001_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-002_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-002_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-003_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-003_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-004_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-004_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-005_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-005_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-006_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-006_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-007_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-007_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-008_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-008_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-009_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-009_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-010_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-011_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-011_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-012_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-012_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-013_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-013_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-014_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-014_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-015_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-015_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-016_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-016_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-017_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-017_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-018_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-018_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-019_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-019_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-020_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-020_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-021_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-021_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-022_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-022_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-023_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-023_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-024_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-024_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-025_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-025_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-026_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-026_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-027_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-027_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-028_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-028_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-029_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-029_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-030_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-030_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-031_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-031_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-032_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-032_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-033_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-033_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-034_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-034_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-035_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-035_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-036_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-036_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-037_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-037_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-038_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-038_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-039_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-039_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-040_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-040_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-041_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-041_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-042_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-042_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-043_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-043_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-044_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-044_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-045_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-045_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-046_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-046_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-047_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-047_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-048_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-048_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-049_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-049_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-050_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-050_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-051_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-051_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-052_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-052_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-053_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-053_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-054_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-054_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-055_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-055_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-056_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-056_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-057_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-057_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-058_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-058_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-059_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-059_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-060_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-060_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-061_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-061_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-062_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-062_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-063_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-063_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-064_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-064_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-065_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-065_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-066_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-066_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-067_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-067_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-068_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-068_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-069_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-069_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-070_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-070_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-071_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-071_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-072_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-072_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-073_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-073_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-074_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-074_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-075_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-075_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-076_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-076_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-077_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-077_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-078_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-078_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-079_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-079_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-080_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-080_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-081_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-081_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-082_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-082_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-083_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-083_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-084_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-084_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-085_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-085_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-086_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-086_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-087_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-087_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-088_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-088_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-089_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-089_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-090_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-090_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-091_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-091_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-092_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-092_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-093_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-093_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-094_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-094_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-095_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-095_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-096_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-096_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-097_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-097_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-098_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-098_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-099_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-099_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-100_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-100_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-101_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-101_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-102_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-102_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-103_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-103_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-104_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-104_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-105_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-105_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-106_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-106_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-107_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-107_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-108_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-108_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-109_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-109_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-110_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-110_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-111_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-111_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-112_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-112_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-113_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-113_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-114_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-114_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-115_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-115_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-116_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-116_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-117_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-117_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-118_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-118_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-119_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-119_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-120_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-120_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-121_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-121_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-122_rest_Rest_run-01",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    },
+    {
+      "recording_dir": "E:\\Science_Datasets\\openneuro\\processed\\ds003478\\neuralmanifolddynamics_ds003478_20260309_134146\\sub-122_rest_Rest_run-02",
+      "ok": true,
+      "modality": "eeg",
+      "issues": []
+    }
+  ]
+}
