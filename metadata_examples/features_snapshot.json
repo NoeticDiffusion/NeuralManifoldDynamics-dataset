@@ -1,0 +1,254 @@
+{
+  "dataset_id": "ds006623",
+  "rows": 15553,
+  "columns": [
+    "dataset_id",
+    "embodied_arousal_proxy",
+    "embodied_arousal_proxy_source",
+    "epoch_id",
+    "file",
+    "fmri_FC_mean",
+    "fmri_FC_std",
+    "fmri_ar1_coefficient",
+    "fmri_dFC_variance",
+    "fmri_dvars",
+    "fmri_entropy_global",
+    "fmri_gradient_ratio",
+    "fmri_kuramoto_global",
+    "fmri_kuramoto_global_std",
+    "fmri_lf_power",
+    "fmri_lf_power_delta",
+    "fmri_lf_power_delta_valid",
+    "fmri_modularity",
+    "fmri_region_var_mean",
+    "fmri_sfreq",
+    "fmri_signal_power",
+    "fmri_slow4_slow5_ratio",
+    "fmri_step_samples",
+    "fmri_step_sec",
+    "fmri_variance_global",
+    "fmri_window_samples",
+    "fmri_window_sec",
+    "t_end",
+    "t_start"
+  ],
+  "column_stats": {
+    "dataset_id": {
+      "missing_rate": 0.0,
+      "dtype": "object"
+    },
+    "embodied_arousal_proxy": {
+      "missing_rate": 1.0,
+      "dtype": "float32"
+    },
+    "embodied_arousal_proxy_source": {
+      "missing_rate": 0.0,
+      "dtype": "object"
+    },
+    "epoch_id": {
+      "missing_rate": 0.0,
+      "dtype": "int64",
+      "mean": 118.95235645856106,
+      "std": 87.33482952864078,
+      "median": 98.0,
+      "mad": 57.0
+    },
+    "file": {
+      "missing_rate": 0.0,
+      "dtype": "object"
+    },
+    "fmri_FC_mean": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.2004590188654273,
+      "std": 0.16377684021138533,
+      "median": 0.15689231957537597,
+      "mad": 0.10282619655059069
+    },
+    "fmri_FC_std": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.6852624632309102,
+      "std": 0.06430427165502692,
+      "median": 0.6900341825067736,
+      "mad": 0.03444749749998621
+    },
+    "fmri_ar1_coefficient": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.950186351097123,
+      "std": 0.014194629174273854,
+      "median": 0.9506786332240615,
+      "mad": 0.009067155738573307
+    },
+    "fmri_dFC_variance": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.4737196828663781,
+      "std": 0.08590063178357271,
+      "median": 0.4761471730277913,
+      "mad": 0.04750266645116241
+    },
+    "fmri_dvars": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 1.3144795572897827,
+      "std": 1.9089051763804457,
+      "median": 0.8362545424657848,
+      "mad": 0.24538925688516033
+    },
+    "fmri_entropy_global": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 11.982187279050617,
+      "std": 16.912376774475085,
+      "median": 6.21422800480479,
+      "mad": 3.268644984361048
+    },
+    "fmri_gradient_ratio": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 4.761853068620034,
+      "std": 177.21627502319464,
+      "median": 1.563915639564851,
+      "mad": 0.8145672181364382
+    },
+    "fmri_kuramoto_global": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.42753118000538637,
+      "std": 0.16855045558456472,
+      "median": 0.4190213985373719,
+      "mad": 0.12588152562777927
+    },
+    "fmri_kuramoto_global_std": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.06912927919612104,
+      "std": 0.045179315784484725,
+      "median": 0.05864595127417449,
+      "mad": 0.028125519621259913
+    },
+    "fmri_lf_power": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 42.318274980407274,
+      "std": 104.20895760537786,
+      "median": 17.922427330986917,
+      "mad": 9.85254044946948
+    },
+    "fmri_lf_power_delta": {
+      "missing_rate": 0.07156175657429435,
+      "dtype": "float64",
+      "mean": 17.61085172975684,
+      "std": 63.91336853720731,
+      "median": 4.647346304491246,
+      "mad": 3.7893539911853162
+    },
+    "fmri_lf_power_delta_valid": {
+      "missing_rate": 0.0,
+      "dtype": "int64",
+      "mean": 0.9284382434257057,
+      "std": 0.2577608806050596,
+      "median": 1.0,
+      "mad": 0.0
+    },
+    "fmri_modularity": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.26923011316371276,
+      "std": 0.1185434506279671,
+      "median": 0.2784946773927973,
+      "mad": 0.09954154131016707
+    },
+    "fmri_region_var_mean": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 11.982187279050617,
+      "std": 16.912376774475085,
+      "median": 6.21422800480479,
+      "mad": 3.268644984361048
+    },
+    "fmri_sfreq": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 1.2499999813735487,
+      "std": 0.0,
+      "median": 1.2499999813735487,
+      "mad": 0.0
+    },
+    "fmri_signal_power": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 42.318274980407274,
+      "std": 104.20895760537786,
+      "median": 17.922427330986917,
+      "mad": 9.85254044946948
+    },
+    "fmri_slow4_slow5_ratio": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 0.0,
+      "std": 0.0,
+      "median": 0.0,
+      "mad": 0.0
+    },
+    "fmri_step_samples": {
+      "missing_rate": 0.0,
+      "dtype": "int64",
+      "mean": 7.0,
+      "std": 0.0,
+      "median": 7.0,
+      "mad": 0.0
+    },
+    "fmri_step_sec": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 6.0,
+      "std": 0.0,
+      "median": 6.0,
+      "mad": 0.0
+    },
+    "fmri_variance_global": {
+      "missing_rate": 0.0664823506718961,
+      "dtype": "float64",
+      "mean": 11.982187279050617,
+      "std": 16.912376774475085,
+      "median": 6.21422800480479,
+      "mad": 3.268644984361048
+    },
+    "fmri_window_samples": {
+      "missing_rate": 0.0,
+      "dtype": "int64",
+      "mean": 14.0,
+      "std": 0.0,
+      "median": 14.0,
+      "mad": 0.0
+    },
+    "fmri_window_sec": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 12.0,
+      "std": 0.0,
+      "median": 12.0,
+      "mad": 0.0
+    },
+    "t_end": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 677.333206260993,
+      "std": 489.0750526481745,
+      "median": 560.0000083446503,
+      "mad": 319.20000475645065
+    },
+    "t_start": {
+      "missing_rate": 0.0,
+      "dtype": "float64",
+      "mean": 666.1332060941,
+      "std": 489.0750526481745,
+      "median": 548.8000081777573,
+      "mad": 319.20000475645065
+    }
+  },
+  "features_snapshot_hash": "9e3cfa4dbdb64b4fd3eb1cc413d127214062880c73b0533bf23a1d41b1072615"
+}

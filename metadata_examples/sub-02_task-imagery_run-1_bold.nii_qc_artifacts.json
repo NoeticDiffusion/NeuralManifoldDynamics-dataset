@@ -1,0 +1,9 @@
+{
+  "file": "E:\\Science_Datasets\\openneuro\\received\\ds006623\\sub-02\\func\\sub-02_task-imagery_run-1_bold.nii.gz",
+  "dataset_id": "ds006623",
+  "original_sfreq": 1.2499999813735487,
+  "atlas_path": "E:\\Science_Datasets\\nilearn_data\\schaefer_2018\\Schaefer2018_200Parcels_7Networks_order_FSLMNI152_2mm.nii.gz",
+  "worker_rss_gb_start": 0.5803985595703125,
+  "worker_rss_gb_peak": 0.5817298889160156,
+  "worker_rss_gb_delta_peak": 0.001331329345703125
+}
